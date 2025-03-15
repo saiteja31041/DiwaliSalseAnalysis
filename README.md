@@ -12,7 +12,7 @@ This project analyzes Diwali sales data using Python and various data analysis l
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/diwaliProject.git
+   git clone https://github.com/saiteja31041/diwaliProject.git
    cd diwaliProject
    ```
 2. Create a virtual environment (optional but recommended):
